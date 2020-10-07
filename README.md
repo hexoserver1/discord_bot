@@ -233,3 +233,7 @@ License
     LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
     SOFTWARE.
+
+
+
+[![Run on Repl.it](https://repl.it/badge/github/Der-Eddy/discord_bot)](https://repl.it/github/Der-Eddy/discord_bot)
